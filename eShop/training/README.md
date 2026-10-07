@@ -33,6 +33,6 @@ request in `navigation/04-change-request.md`. Don't open it before writing your 
 ## What this pack does not do
 
 No `ladder/`, `review/`, `incidents/`, `agentic/`, or `interview/` folders — those are LAB/DRILL-tier phases and
-this project is READ tier (Phase 4 only), per `apprenticeship/B01_AGENT_BRIEF.md`. `astra/03-reference/assessment.md`
+this project is READ tier (Phase 4 only), per the apprenticeship brief (`B01_AGENT_BRIEF.md`, kept outside this repository). `astra/03-reference/assessment.md`
 already has stage gates and a self-review route if you want graded checkpoints; `fabledocs/08-interview-prep/`
-already has 45+ interview questions anchored to this repo. Use those rather than a new interview kit here.
+already has 36 interview question cards and 7 timed simulations anchored to this repo. Use those rather than a new interview kit here.

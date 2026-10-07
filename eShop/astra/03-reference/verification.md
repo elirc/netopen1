@@ -2,6 +2,8 @@
 
 This course was authored against the local eShop checkout at commit `9b4f943`, titled “Update to Asp.Versioning to v10-preview2 (#980)”, on 2026-09-04. Story briefs describe either observed source behavior or explicitly proposed practice requirements. They are not upstream issues or completed implementations.
 
+*Status 2026-10-06:* `elirc/netopen1` holds this checkout as the `eShop/` subfolder of a single snapshot commit (`483680f`); commit `9b4f943` and eShop's own Git history are not included. A static re-check against that snapshot found the baseline facts below unchanged (`global.json` SDK `10.0.100`/`latestFeature`, Aspire AppHost SDK `13.2.0`, README still citing .NET 9), 106 Markdown files and 72 stories under `astra/`. Nothing was built or run for this re-check.
+
 ## Source-of-truth hierarchy
 
 1. Checked-in project, runner, build, and workflow configuration for this checkout.

@@ -38,7 +38,8 @@ One page. This is the minimum you need to understand before touching `src/` in t
    (throws `OrderingDomainException`), and — separately — authn/authz at the API boundary. A change that only
    adds client-side validation hasn't protected the API from a non-browser caller.
 
-7. **Check `astra/03-reference/risk-register.md`-equivalent before you assume something is a bug**: both
+7. **Check the risk register before you assume something is a bug** (`astra/` has no risk-register file; the one
+   that exists is `fabledocs/09-reference/risk-register.md`): both
    `fabledocs` and `astra` label several rough edges (simulated payment, no dead-letter queue, `ValidateAudience
    = false`, `GetOrderAsync` with no ownership check) as either deliberate teaching simplifications or open
    *investigate* items, not confirmed defects. Read `fabledocs/09-reference/risk-register.md` before filing one as

@@ -32,7 +32,7 @@ For each session: read for 20 minutes, predict behavior, run one experiment, mak
 
 ## How to use the repository
 
-All commands in this course run from the **eShop Git root**, the directory containing `global.json` and `eShop.Web.slnf`. In the supplied workspace that is `netopen1/eShop`. Course material lives in `astra`; exercise implementations eventually modify `src`, `tests`, or `e2e` on your practice branches.
+All commands in this course run from the **eShop Git root**, the directory containing `global.json` and `eShop.Web.slnf`. In the supplied workspace that is `netopen1/eShop`. *Note (2026-10-06):* in the `elirc/netopen1` repository the Git root is one level higher (`eShop/` is a subfolder) and history is a single snapshot commit, so run commands from `eShop/`, the folder containing `global.json`, and treat "Git root" in later pages as that folder. Course material lives in `astra`; exercise implementations eventually modify `src`, `tests`, or `e2e` on your practice branches.
 
 Keep personal work under an optional `astra/workbook/` directory, using [the templates](04-templates/README.md). That directory is not created or ignored for you; decide what belongs in a reviewed practice commit. Never put tokens, authentication state, or copied customer data in a workbook.
 

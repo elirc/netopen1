@@ -26,4 +26,4 @@ Every answer = **concept + concrete example + tradeoff + failure mode**. "The ou
 | [06-behavioral-star-stories.md](06-behavioral-star-stories.md) | 9 STAR worksheets sourced from the contribution tickets |
 | [07-two-week-cram-plan.md](07-two-week-cram-plan.md) | Day-by-day plan with checkpoints |
 
-Question-card counts across files 01–03 + 05: **45 cards, ~80% repo-anchored.**
+Counts (recounted 2026-10-06): files 01–03 hold **36 question cards, 35 of them with a "Repo anchor" line**; file 05 adds **7 timed simulations** (4 debugging, 3 review).
